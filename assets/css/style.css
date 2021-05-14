@@ -1,0 +1,57 @@
+body{
+  background-color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  text-align: center;
+}
+
+h3{
+  margin: 40px 0;
+  font-weight: 700;
+}
+
+hr{
+  border-top: 2px solid #17a3b8;
+}
+
+.fas{
+  padding: 5px 0;
+  background-color: #17a3b8;
+  width: 100%;
+}
+
+.presentacion p{
+  padding: 10px 0;
+  text-align: left;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.presentacion{
+  margin-bottom: 60px;
+}
+
+.card-text{
+  font-weight: 400;
+  font-size: 14px;
+}
+.card-img-top{
+  max-height: 169px;
+}
+
+.card-deck{
+  text-align: left;
+  margin-bottom: 120px;
+}
+
+footer {
+  height: auto;
+}
+
+.lista{
+  list-style: none;
+}
+
+.viajes{
+  font-size: 20px;
+}
